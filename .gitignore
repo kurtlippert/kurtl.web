@@ -1,0 +1,9 @@
+# dune files
+_build
+*.opam
+result
+
+# direnv files
+.direnv
+.envrc
+

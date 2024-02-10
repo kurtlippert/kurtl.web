@@ -1,0 +1,4 @@
+(executable
+ (public_name kurtl_web)
+ (name main)
+ (libraries kurtl_web dream tyxml dream-livereload))
